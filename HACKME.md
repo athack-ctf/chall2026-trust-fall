@@ -1,5 +1,4 @@
-The description of your challenge as seen by participants in CTFd. Try to make it feel within the theme
-of the event...
+There's always a supply chain in application process. break the chain and ruin the trust in packages
 
 ---
 If your challenge is a multi-flag one (i.e., it consists of a sequence of sub-challenges each rewarded with
