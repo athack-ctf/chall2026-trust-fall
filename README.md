@@ -1,6 +1,6 @@
-# Chall - Your Challenge Title
+# Chall - TrustFall
 
-> A brief description of the challenge
+> There's always a supply chain in application process. break the chain and ruin the trust in packages
 
 ## Challenge Type
 
@@ -14,30 +14,15 @@
 
 ## Designer(s)
 
-- Ada Lovelace
-- Barbara Liskov
+- Mohammad Aghaee
 
 ## Description
 
-A high-level overview intended to clarify the concept and intuition behind the challenge, outlining its educational
-goals and the skills it aims to test in participants.
-
-**IMPORTANT:** This description will **NOT** be shared with participants.
+A challenge focused on supply chain attack with attacking the application through the third party dependencies and lack of security check of the application and chaining dependency manipulation and misconfig in the attack.
 
 ## Category(ies)
 
-- `pwn`
-- `re`
-- `web`
-- `stegano`
-- `env`
-- `crypto`
-- `osint`
-- `web3`
-- `ai`
 - `android`
-- `auto`
-- `misc`
 
 ---
 
