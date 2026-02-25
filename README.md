@@ -1,6 +1,6 @@
 # Chall - TrustFall
 
-> There's always a supply chain in application process. break the chain and ruin the trust in packages
+> There's always a supply chain in application process. Find the chain and breakit before those creatures ruin the trust in packages.
 
 ## Challenge Type
 
