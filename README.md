@@ -1,52 +1,46 @@
-# Chall - TrustFall
+# @Hack 2026: TrustFall
 
-> There's always a supply chain in application process. Find the chain and breakit before those creatures ruin the trust in packages.
+> Authored by [Mohammed](https://github.com/athack-ctf/chall2026-hyrcani).
 
-## Challenge Type
+- **Category**: `Rev`
+- **Solves**: `31/120`
+- **Tags**: `none`
 
-- [X] **OFF**line
-- [ ] **ON**line
+> There's always a supply chain in application process. Find the chain and break it before those creatures ruin the
+> trust in packages.
 
-## Design Type
+## Files
 
-- [X] **Black**-Box
-- [ ] **White**-Box
+- **[Download: TrustFall.apk](https://github.com/athack-ctf/chall2026-trust-fall/raw/refs/heads/main/offline-artifacts/TrustFall.apk)**
 
-## Designer(s)
+## Reveal Flag(s)
 
-- Mohammad Aghaee
+Did you try solving this challenge?
+<details>
+<summary>
+Yes
+</summary>
 
-## Description
+Did you **REALLY** try solving this challenge?
 
-A challenge focused on supply chain attack with attacking the application through the third party dependencies and lack of security check of the application and chaining dependency manipulation and misconfig in the attack.
+<details>
+<summary>
+Yes, I promise!
+</summary>
 
-## Category(ies)
+- Flag 1: `ATHACKCTF{Supp1y_ch41n_4774ck}`
 
-- `android`
+</details>
+</details>
+
 
 ---
 
-# Project Structure
+## About @Hack
 
-## 1. HACKME.md
+[@Hack](https://athackctf.com/) is an annual CTF (Capture The Flag) competition hosted
+by [HEXPLOIT ALLIANCE](https://hexploit-alliance.com/) and [TECHNATION](https://technationcanada.ca/) at Concordia
+University in Montreal, Canada.
 
-- **[HACKME.md](HACKME.md)**: A teaser or description of the challenge to be shared with participants (in CTFd).
-
-## 2. Source Code
-
-- **[source/README.md](source/README.md)**: Sufficient instructions for building your offline artifacts from source
-  code. If your project includes multiple subprojects, please consult us (Alin and William).
-- **[source/*](source/)**: Your source code.
-
-## 3. Offline Artifacts
-
-- **[offline-artifacts/*](offline-artifacts/)**: All files (properly named) intended for local download by
-  participants (e.g., a binary executable for reverse engineering, a custom-encoded image, etc.). For large files (
-  exceeding 100 MB), please consult us (Alin and William).
-
-## 4. Solution
-
-- **[solution/README.md](solution/README.md)**: A detailed writeup of the working solution.
-- **[solution/FLAGS.md](solution/FLAGS.md)**: A single markdown file listing all (up-to-date) flags.
-- **[solution/*](solution/)**: Any additional files or code necessary for constructing a reproducible solution for the
-  challenge (e.g., `PoC.py`, `requirement.txt`, etc.). 
+---
+[Check more challenges from @Hack 2026](https://github.com/athack-ctf/AtHackCTF-2026-Challenges).
